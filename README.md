@@ -3,8 +3,6 @@
 MediVoice is a voice-activated medication reminder web application designed to help users manage their medication schedules easily and hands-free. Using speech recognition and text-to-speech, the app allows users to add, track, and receive medication reminders directly from their browser..
 
 
-
-
 *Features*
 Voice Commands – Add and manage medication reminders using natural voice input.
 Text-to-Speech Alerts – Get spoken notifications when it’s time to take your medicine.
