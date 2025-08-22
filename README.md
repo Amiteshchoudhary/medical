@@ -21,6 +21,8 @@ Users can view, edit, or delete reminders anytime.
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/37e72b7f-5a80-4be9-af2f-34437524f3bf" />
 <img width="1911" height="1079" alt="image" src="https://github.com/user-attachments/assets/e46793de-bd71-4aaa-a987-b56717333891" />
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/98d3a85b-4c2b-4bc4-a15e-5cb35ade4d88" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/0d4c7621-4842-4e3c-b141-16b6d19fcb8b" />
+
 
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/4a6d27ab-0b99-4d80-9dfa-e3992652fb5d" />
 <img width="1919" height="1077" alt="image" src="https://github.com/user-attachments/assets/e500bfc5-e04d-45d1-9a2b-d76eb2cd10d7" />
