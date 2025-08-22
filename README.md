@@ -1,6 +1,9 @@
 # medical    https://app--medi-voice-d16b3632.base44.app/
 *MediVoice* 
-MediVoice is a voice-activated medication reminder web application designed to help users manage their medication schedules easily and hands-free. Using speech recognition and text-to-speech, the app allows users to add, track, and receive medication reminders directly from their browser.
+MediVoice is a voice-activated medication reminder web application designed to help users manage their medication schedules easily and hands-free. Using speech recognition and text-to-speech, the app allows users to add, track, and receive medication reminders directly from their browser..
+
+
+
 
 *Features*
 Voice Commands – Add and manage medication reminders using natural voice input.
